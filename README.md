@@ -8,6 +8,7 @@ This service is responsible for receiving notification requests and publishing e
 ## 📌 What is this?
 
 This project serves as the **API layer** of the [NotificaJá Streaming repository](https://github.com/thalison/notificaja-streaming).
+
 It exposes HTTP endpoints to accept notification requests and then produces messages into Kafka topics.
 
 Designed for scalability and easy integration with various clients.
